@@ -1,0 +1,25 @@
+.title {
+    color: #CCC;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 0;
+}
+.codename {
+    font-weight: lighter;
+    color: #333;
+}
+.contentbox {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.pwdinput {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.nazofooter {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 12px;
+    opacity: .3;
+}
